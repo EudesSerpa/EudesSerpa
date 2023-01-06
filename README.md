@@ -1,6 +1,6 @@
 # 👋🏻 Hi there!
 
-![Banner profile](https://i.postimg.cc/wjdfQXp8/Banner.png)
+![Banner profile](https://i.postimg.cc/HxXjX81x/github.png)
 
 ## 💫 About Me:
 🔭 I’m currently looking for a job as a Junior Frontend Developer<br>💻 I’m currently learning FullStack web development and web design<br>🤝 I'm looking for friends to code great things!<br>💬 Ask me about JavaScript | ReactJs.<br>⚡ Fun fact: my favorite pokemon is Pikachu
