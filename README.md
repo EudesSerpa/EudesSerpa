@@ -3,8 +3,11 @@
 ![Banner profile](https://i.postimg.cc/HxXjX81x/github.png)
 
 ## 💫 About Me:
-🔭 I’m currently looking for a job as a Junior Frontend Developer<br>💻 I’m currently learning FullStack web development and web design<br>🤝 I'm looking for friends to code great things!<br>💬 Ask me about JavaScript | ReactJs.<br>⚡ Fun fact: my favorite pokemon is Pikachu
-
+🔭 I’m a Frontend Developer in MotoSmart<br>
+💻 I am currently leading the migration of the project from a Webview architecture to React Native<br>
+🤝 I'm looking for friends to code great things!<br>
+💬 Ask me about JavaScript | ReactJs.<br>
+⚡ Fun fact: my favorite pokemon is Pikachu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eudes-serpa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18977455) 
@@ -15,8 +18,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EudesSerpa&theme=dark&hide_border=true)<br/>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EudesSerpa&icon=5&color=12)](https://visitcount.itsvg.in)
